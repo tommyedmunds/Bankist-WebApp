@@ -3,11 +3,6 @@ Bankist is a dynamic mock-up of a banking web-app created with Javascript, CSS, 
 
 The following is a list of all usernames and passwords for the site:
 
-account1 = {
-  username: 'js',
-  pin: 1111,
-}
-
 account2 = {
   username: 'jd',
   pin: 2222,
